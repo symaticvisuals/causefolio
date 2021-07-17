@@ -7,13 +7,12 @@ require('firebase/auth');
 class AuthService {
   // Configure Firebase.
   config = {
-    apiKey: 'AIzaSyBogaqI7q74Wml7AD90VVm_89o1cgFFQCo',
-    authDomain: 'code-for-cause-leaders.firebaseapp.com',
-    projectId: 'code-for-cause-leaders',
-    storageBucket: 'code-for-cause-leaders.appspot.com',
-    messagingSenderId: '58409560329',
-    appId: '1:58409560329:web:60ffc3c128d3b155a18bd8',
-    measurementId: 'G-49RJ8QM95E'
+    apiKey: 'AIzaSyAuO7aI3q1rnl6OHwDHNKofyWGq-jUrI0U',
+    authDomain: 'causefolio-12fc0.firebaseapp.com',
+    projectId: 'causefolio-12fc0',
+    storageBucket: 'causefolio-12fc0.appspot.com',
+    messagingSenderId: '861094233182',
+    appId: '1:861094233182:web:3749004d3e850b4dd8e0cf'
     // ...
   };
 
